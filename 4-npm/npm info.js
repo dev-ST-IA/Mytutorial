@@ -12,11 +12,3 @@
 // manual approach (create package.json in the root, create properties etc)
 // npm init (step by step, press enter to skip)
 // npm init -y (everything default)
-
-const _ = require("loadash");
-
-const arr = [1, [2, 3, [4, [5]]]];
-
-const newArr = _.flattenDeep(arr);
-
-console.log(newArr);

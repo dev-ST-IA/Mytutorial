@@ -1,1 +1,3 @@
-Here is the result: This is the first text file , This is the second text file
+This is the first text file
+This is the second text file
+appended using util module
